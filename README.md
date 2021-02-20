@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**GitHub Readme Stats:**  
+
+![taynarodrigues github stats](https://github-readme-stats.vercel.app/api?
+username=taynarodrigues&show_icons=true&theme=default)
+
+![taynarodrigues github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=taynarodrigues&layout=compact)
+
+:star: **From** [Tayna Rodrigues](https://github.com/taynarodrigues)
